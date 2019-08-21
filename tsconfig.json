@@ -17,7 +17,15 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ften-framework": [
+        "dist/ften-framework"
+      ],
+      "ften-framework/*": [
+        "dist/ften-framework/*"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
