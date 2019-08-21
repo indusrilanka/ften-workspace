@@ -1,6 +1,14 @@
 {
   "name": "ften-workspace",
-  "version": "1.0.1",
+  "version": "1.0.2",
+  "author": "Indrakumara Sirisena",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/indusrilanka/ften-workspace.git"
+  },
+  "bugs": {
+    "url": "https://github.com/indusrilanka/ften-workspace.issues"
+  },  
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
